@@ -1,0 +1,67 @@
+
+.head{
+    margin:5% 35%;
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+    font-family: "Heebo";
+    background-color: black;
+    box-shadow: 0 0 6px gray;
+}
+.head .btn-close{
+    float: right;
+}
+
+.container .row .heading{
+    margin-top: 50px;
+    font-size: 30px;
+}
+.container .row .heading-2{
+    margin-top: 60px;
+}
+.container .row .heading-2 a,.email a{
+    float: right;
+    text-decoration: none;   
+    color: rgba(25, 135, 84, 1)
+}
+.email a:hover{
+    color: rgba(25, 135, 84, 1)
+}
+.head .container .email{
+    margin-top: 20px;
+}
+
+.head .container .kata{
+    color:rgb(192, 178, 178); 
+}
+
+.head .button{
+    margin: 0 15px;
+    margin-top: 50px;
+}
+
+.head .button .masuk{
+    margin-top: 50px;
+    text-align: center;
+    color:rgb(192, 178, 178); 
+}
+.head .button a{
+    color:rgb(192, 178, 178); 
+    margin-left: 120px;
+    text-decoration: none;
+}
+.head .button .adua{
+    margin-top: 15px;
+    margin-left: 130px;
+    color: black;
+}
+.head .button .code{
+    color: rgba(25, 135, 84, 1)
+}
+.background{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: rgba(206, 201, 201, 0.4);
+    background-image: url(/img/gambarbg.jpg);
+}

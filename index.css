@@ -1,0 +1,86 @@
+.tinggi{
+    margin-top: 180px;
+}
+.tinggi .row img{
+    border-radius: 10px;
+}
+.starlin .row .gaya{
+    transition:0.5s;
+}
+.starlin .row .gaya:hover{
+    transform: scale(1.1,1.1);
+}
+.container .row  .col-md .kata{
+    color:rgba(25, 135, 84, 1)
+}
+.container .row .kata:hover{
+    color:rgb(110, 214, 166)
+}
+.produk .row .huruf{
+    background-color:rgba(243, 102, 102,0.6);
+    width: 40px;
+    color: rgb(250, 73, 73);
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.container .row .pencari{
+    color:rgba(25, 135, 84, 1)
+}
+.produk .row .gambar img{
+    width: 20px;
+}
+.produk .row .gambar,.kata{
+    margin-top: -10px;
+}
+.produk .row .tinggi2{
+    height: 460px;
+
+}
+.kategori .container .row .bentuk{
+    height: 115px;
+    box-shadow: -3px -3px 3px,3px 3px 3px rgba(25, 135, 84, 1)
+}
+.kategori .container .row .bentuk:hover{
+    box-shadow: 0 0 1px whitesmoke;
+    transition: 0.5s;
+}
+.produk .row .terlaris{
+    margin-left: -15px;
+    width: 80px;
+    border-start-end-radius:  40px;
+    border-end-end-radius:  40px;
+}
+.produk .row .casback{
+    border-radius: 5px;
+    width: 100px;
+    padding-left: 5px;
+    font-weight: bold;
+    background-color:rgb(122, 236, 122,0.5);
+    color: green
+}
+.container .row .foryou{
+    height: 70px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.produk .row .jarak{
+    margin-top: 50px;
+}
+.produk .row .gbr{
+    transition: 0.5s;
+}
+.produk .row .gbr:hover{
+    box-shadow: 0 5px 4px rgba(25, 135, 84, 1)
+}
+
+.kategori .row .jenis{
+    transition: 0.5s;
+}
+
+
+
+.kategori .container .row p{
+    font-size: 12px;
+}

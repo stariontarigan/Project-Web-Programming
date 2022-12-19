@@ -1,0 +1,52 @@
+.tinggi{
+    margin-top: 120px;
+    font-size: 15px;
+}
+.varian{
+    border: 2px grey solid;
+    border-radius: 10px;
+}
+.jenis .varian .beli {
+    width: 135px;
+    height: 40px;
+    line-height: 10px;
+}
+.jenis .varian .keranjang{
+    height: 40px;
+    line-height: 10px;
+    
+}
+
+.row .hp .gambar .satu:hover{
+    border: solid green 2px;
+
+}
+
+.row .card .card-body .casback{
+    height: 20px;
+    font-size: smaller;
+    text-align: center;
+    border-radius: 2px;
+    background-color:rgba(112, 240, 112, 0.692);
+    color: rgb(13, 173, 93);
+    font-weight: bolder;
+}
+.row .card .card-body .pro{
+    width: 17px;
+}
+
+.row .card .card-body .bintang{
+    font-size: 12px;
+}
+.container .row .produk{
+    box-shadow: 0 2px 2px green;
+    border:none;
+    height: 400px;
+
+}
+.container .row .sisa{
+    font-size: 14px;
+}
+.jaraktinggi{
+    margin-top: 180px;
+}
